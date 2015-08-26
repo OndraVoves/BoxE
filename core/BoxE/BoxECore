@@ -1,0 +1,53 @@
+#ifndef BOXECORE_H
+#define BOXECORE_H
+
+// CORE
+
+#include "bglobal.h"
+#include "breferencecounter.h"
+#include "bpair.h"
+#include "blibrary.h"
+#include "btime.h"
+
+#include "bvector.h"
+#include "bstack.h"
+
+#include "blinkedlist.h"
+#include "bhash.h"
+
+#include "bbytearray.h"
+#include "basciistring.h"
+
+#include "biodevice.h"
+#include "bbuffer.h"
+#include "bfile.h"
+
+#include "bdatastream.h"
+#include "btextstream.h"
+
+#include "bthread.h"
+
+#include "bsignalslot.h"
+
+// MATH
+#include "bgoniometry.h"
+
+#include "bvector2f.h"
+#include "bvector3f.h"
+#include "bvector4f.h"
+
+#include "bmatrix3x3f.h"
+#include "bmatrix4x4f.h"
+
+#include "bquaternion.h"
+
+#include "bray3f.h"
+#include "bplane3f.h"
+
+#include "bintersect3.h"
+#include "bhit3.h"
+
+#include "bcomplexf.h"
+#include "bcomplexd.h"
+
+#endif // BOXECORE_H

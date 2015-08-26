@@ -1,0 +1,6 @@
+*.kdev*
+*.kate-swp
+
+core/build
+core/lib
+testing/build
